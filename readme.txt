@@ -1,3 +1,3 @@
-readme  &&
+readme conflict  
 third
 hello world
